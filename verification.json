@@ -1,0 +1,26 @@
+{
+  "date": "2026-10-01",
+  "browser": "Microsoft Edge / Chromium",
+  "checks": [
+    "160 prompts; plans for all player counts and lead positions",
+    "3 players: full round, reveal, completed storage and reload",
+    "4 players: full round, reveal, completed storage and reload",
+    "5 players: full round, reveal, completed storage and reload",
+    "6 players: full round, reveal, completed storage and reload",
+    "7 players: full round, reveal, completed storage and reload",
+    "8 players: full round, reveal, completed storage and reload",
+    "9 players: full round, reveal, completed storage and reload",
+    "10 players: full round, reveal, completed storage and reload",
+    "11 players: full round, reveal, completed storage and reload",
+    "12 players: full round, reveal, completed storage and reload",
+    "Five rounds: rotating lead and no repeated prompts",
+    "Empty drawing, undo/redo, responsive canvas, hidden handoff, drafts, Enter, save failure and retry",
+    "Expired empty draw requires input and remains with the same player",
+    "Offline reload, resumed game and new full game",
+    "Local file launch, draw and IndexedDB saving"
+  ],
+  "errors": [],
+  "limitations": [
+    "iPad Safari and Android Chrome physical-device testing requires those devices."
+  ]
+}
